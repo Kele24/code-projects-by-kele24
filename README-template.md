@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://kele24.github.io/code-projects-by-kele24/)
+- Live Site URL: [qrcodesite](https://kele24.github.io/code-projects-by-kele24/)
 
 ## My process
 In order to create a card, I first created a div container in HTML. I then added the paragraphs and headers that I wanted to appear inside the card to the container. Using CSS, I styled the text to be in the center of the page, adjusted the widths, and added background colors. 
